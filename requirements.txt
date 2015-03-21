@@ -1,5 +1,5 @@
 # Main requirements
-sentry == 7.2.1
+sentry == 7.1.1
 #sentry-bitbucket == 0.1.5
 #sentry-jira == 0.8.0
 #sentry-hipchat == 0.6.0
